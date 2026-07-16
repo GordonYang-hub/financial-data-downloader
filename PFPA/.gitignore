@@ -1,0 +1,12 @@
+# Environment / secrets
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Local cache (SEC ticker map)
+.pfpa_cache/
+
+# Generated data
+output/
+*.xlsx
