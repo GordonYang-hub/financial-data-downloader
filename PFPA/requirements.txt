@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.23
+requests>=2.28
+openpyxl>=3.1
+python-dotenv>=1.0
+yfinance>=0.2.40   # zero-key price backend (fallback when no TIINGO_API_KEY)
